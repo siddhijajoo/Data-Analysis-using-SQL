@@ -1,1 +1,3 @@
 # Data-Analysis-using-SQL
+
+This project highlights the utilization of SQL queries for data analysis in Python, utilizing the SQLite database engine. Through the implementation of SQL queries, I explored and analyzed datasets to extract meaningful insights and trends. From basic data retrieval to complex joins and aggregations, SQL queries were employed to manipulate and explore the data effectively. Additionally, I utilized the Matplotlib library for data visualization, creating informative plots and charts to illustrate findings. This project showcases the effectiveness of SQL and Python for data analysis and visualization, demonstrating my skills in extracting insights from datasets and presenting them visually.
